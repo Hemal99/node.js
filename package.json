@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "this is test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemal99/node.js.git"
+  },
+  "author": "Hemal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemal99/node.js/issues"
+  },
+  "homepage": "https://github.com/Hemal99/node.js#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
